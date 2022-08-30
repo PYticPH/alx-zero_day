@@ -2,6 +2,6 @@
 
 ### Topic  
 Git and Github
-** coomands **
+**comands**
 * git add
 * git push
